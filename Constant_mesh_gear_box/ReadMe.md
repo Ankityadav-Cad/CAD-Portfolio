@@ -34,12 +34,12 @@ This project involves the complete modeling, assembly, and animation of a **Cons
 ### Motion Study (GIF)
 ![Animation](Animation/Exploded_animation.avi)
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 - Parametric Modeling
 - Multi-Body Assembly
 - Joint Constraints and Motion Links
 - Technical Drawing Export
-- Project Organization for GitHub Portfolio
+
 
 ---
 
