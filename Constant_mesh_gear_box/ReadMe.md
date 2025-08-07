@@ -11,10 +11,10 @@ This project involves the complete modeling, assembly, and animation of a **Cons
 ## 📂 Project Structure
 | Folder | Contents |
 |--------|----------|
-| `Fusion_Files/` | Individual parts and full assembled parts (.f3d) |
-| `Screenshots/` | Rendered views, exploded views, and section captures |
-| `Animation/` | Video and GIF of gear motion and assembly |
-| `Drawings/` | 2D manufacturing drawings (PDF) |
+| `Fusion_Files` | Individual parts and full assembled parts (.f3d) |
+| `Screenshots` | Rendered views, exploded views, and section captures |
+| `Animation` | Video and GIF of gear motion and assembly |
+| `Drawings` | 2D manufacturing drawings (PDF) |
 | `ReadMe.md` | Project details and preview |
 
 ## 🧱 Components Modeled
