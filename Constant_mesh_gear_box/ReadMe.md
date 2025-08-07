@@ -1,21 +1,46 @@
-#Constant mesh gear box – Fusion 360
-## Description:
-This project models a basic spur gear mesh transmission system using Fusion 360. The assembly demonstrates correct gear meshing and exploded visualization.
+# Constant Mesh Gearbox – Fusion 360 Project
 
-## Tools Used:
-- Fusion 360
-- Spur Gear Generator Add-In
+## 🔧 Project Overview
+This project involves the complete modeling, assembly, and animation of a **Constant Mesh Gearbox** in Fusion 360. Inspired by the [YouTube tutorial](https://www.youtube.com/watch?v=rPDsY4FN2Y0), this design showcases key CAD skills like part modeling, gear alignment, mechanical joints, and motion animation.
 
-## Features:
-- Gear 
-- Spline Shaft
-- Dog Component
-- Motion Link
-- Assembled view with revolute joints
-- Exploded view and animation
+## 🛠 Tools Used
+- Fusion 360 (Design, Assembly, Animation)
+- Spur Gear Add-In
+- Exploded View & Motion Study
 
-## Skills Demonstrated:
-- Parametric design
-- Assembly with joints
-- Gear design with add-in
-- Visualization & motion study
+## 📂 Project Structure
+| Folder | Contents |
+|--------|----------|
+| `Fusion_Files/` | Individual parts and full assembled parts (.f3d) |
+| `Screenshots/` | Rendered views, exploded views, and section captures |
+| `Animation/` | Video and GIF of gear motion and assembly |
+| `Drawings/` | 2D manufacturing drawings (PDF) |
+| `ReadMe.md` | Project details and preview |
+
+## 🧱 Components Modeled
+- Spur Gears (Driver & Driven)
+- Shafts with key slots
+- Gearbox Housing
+- Assembly with As-Built and Revolute Joints
+
+## 📸 Preview
+
+### Full Assembly
+![Assembly](Screenshots/full_assembly.png)
+
+### Exploded View
+![Exploded View](Screenshots/exploded_view.png)
+
+### Motion Study (GIF)
+![Animation](Animation/exploded_animation.gif)
+
+## 🧠 Skills Demonstrated
+- Parametric Modeling
+- Multi-Body Assembly
+- Joint Constraints and Motion Links
+- Technical Drawing Export
+- Project Organization for GitHub Portfolio
+
+---
+
+ *Note: All files are created for educational and portfolio purposes.*
