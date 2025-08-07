@@ -11,9 +11,9 @@ This project involves the complete modeling, assembly, and animation of a **Cons
 ## 📂 Project Structure
 | Folder | Contents |
 |--------|----------|
-| `Fusion_Files` | Individual parts and full assembled parts (.f3d) |
+| `Fusion_Files` | full assembled parts (.f3d) |
 | `Screenshots` | Rendered views, exploded views, and section captures |
-| `Animation` | Video and GIF of gear motion and assembly |
+| `Animation` | Video of gear motion and assembly |
 | `Drawings` | 2D manufacturing drawings (PDF) |
 | `ReadMe.md` | Project details and preview |
 
@@ -29,10 +29,10 @@ This project involves the complete modeling, assembly, and animation of a **Cons
 ![Assembly](Screenshots/full_assembly.png)
 
 ### Exploded View
-![Exploded View](Screenshots/exploded_view.png)
+![Exploded View](Screenshots/Exploded_view.png)
 
 ### Motion Study (GIF)
-![Animation](Animation/exploded_animation.gif)
+![Animation](Animation/Exploded_animation.avi)
 
 ## 🧠 Skills Demonstrated
 - Parametric Modeling
