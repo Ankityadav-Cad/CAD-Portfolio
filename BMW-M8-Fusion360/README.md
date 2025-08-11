@@ -19,7 +19,7 @@ This project showcases a 3D surface model of the BMW M8 created using Autodesk F
 - Optional animation file
 
 ## Preview
-![BMW M8 Render](BMW-M8-Fusion360/Render-Images/BMW_M8_Render.PNG)
+![BMW M8 Render](Render-Images/BMW_M8_Render.PNG)
 ![BMW M8 Render Front](Render-Images/BMW_M8_Render_Front.PNG)  
 ![BMW M8 Render Side](Render-Images/BMW_M8_Render_Side.PNG)
 
