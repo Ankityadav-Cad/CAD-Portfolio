@@ -16,7 +16,6 @@ This project showcases a 3D surface model of the BMW M8 created using Autodesk F
 - `.f3d` native CAD file
 - High-quality rendered images
 - Technical drawings (PDF)
-- Optional animation file
 
 ## Preview
 ![BMW M8 Render](%20Render-Images/BMW_M8_Render.PNG)
