@@ -1,7 +1,7 @@
 # Single Cylinder steam engine
 
 ## 🔧 Project Overview
-This project involves the complete modeling, assembly, and animation of a ** Single Cylinder steam engine** in Solidworks. This design showcases key CAD skills like part modeling, Assembly.
+This project involves the complete modeling, assembly ** Single Cylinder steam engine** in Solidworks. This design showcases key CAD skills like part modeling, Assembly.
 
 ## 🛠 Tools Used
 - Solidworks(Design, Assembly)
