@@ -17,7 +17,7 @@ const projects = [
       'assets/images/automatic-screw-feeder-04.png',
       'assets/images/automatic-screw-feeder-05.png'
     ],
-    model: 'assets/models/automatic-screw-feeder.glb'
+    model: 'assets/models/26-1001-90.glb'
   },
   {
     id: 2,
