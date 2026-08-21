@@ -1,7 +1,6 @@
 /* GITHUB-ONLY PROJECT DATABASE
    Add/edit projects here.
    Put images in assets/images/ and GLB models in assets/models/.
-   The paths below are already prepared for the Automatic Screw Feeder project.
 */
 const projects = [
   {
@@ -9,7 +8,7 @@ const projects = [
     title: 'AUTOMATIC SCREW FEEDER',
     desc: 'Reverse-engineered an automatic screw feeder system to study its mechanical architecture, component geometry, assembly relationships and feeding mechanism, then recreated the system in CAD.',
     tags: 'REVERSE ENGINEERING · SPM DESIGN · SOLIDWORKS',
-    image: 'assets/images/automatic-screw-feeder-01.png',
+    image: 'assets/images/26-1001-90 02 _Automatic screw feeder.PNG',
     gallery: [
       'assets/images/26-1001-90 02 _Automatic screw feeder.PNG',
       'assets/images/26-1001-90 02 01 _Automatic screw feeder.PNG',
@@ -81,8 +80,8 @@ function renderProjects() {
 
 renderProjects();
 
-// The Automatic Screw Feeder GLB is used as the hero model once the file is uploaded.
+// Use the uploaded Automatic Screw Feeder GLB in the main 3D viewer.
 if (heroModel) {
-  heroModel.src = 'assets/models/automatic-screw-feeder.glb';
+  heroModel.src = 'assets/models/26-1001-90.glb';
   heroModel.style.display = 'block';
 }
