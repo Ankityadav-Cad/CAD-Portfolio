@@ -11,11 +11,11 @@ const projects = [
     tags: 'REVERSE ENGINEERING · SPM DESIGN · SOLIDWORKS',
     image: 'assets/images/automatic-screw-feeder-01.png',
     gallery: [
-      'assets/images/automatic-screw-feeder-01.png',
-      'assets/images/automatic-screw-feeder-02.png',
-      'assets/images/automatic-screw-feeder-03.png',
-      'assets/images/automatic-screw-feeder-04.png',
-      'assets/images/automatic-screw-feeder-05.png'
+      'assets/images/26-1001-90 02 _Automatic screw feeder.PNG',
+      'assets/images/26-1001-90 02 01 _Automatic screw feeder.PNG',
+      'assets/images/26-1001-90 03 _SCREW TIGHTENER.PNG',
+      'assets/images/26-1001-90 03 01 _SCREW TIGHTENER.PNG',
+      'assets/images/26-1001-90.PNG'
     ],
     model: 'assets/models/26-1001-90.glb'
   },
